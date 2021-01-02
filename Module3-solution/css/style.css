@@ -42,7 +42,7 @@ h3 {
  p{
     padding: 0 30px;
 }
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 767px) {
     #menu {
       width: 75%
     }
